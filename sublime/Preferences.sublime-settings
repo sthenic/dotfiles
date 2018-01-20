@@ -1,0 +1,20 @@
+{
+    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "DejaVu Sans Mono",
+    "font_size": 11,
+    "ignored_packages":
+    [
+        "RestructuredText",
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80
+    ],
+    "show_encoding": true,
+    "tab_size": 4,
+    "theme": "gruvbox (Dark) (Medium).sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "wrap_width": 80
+}
