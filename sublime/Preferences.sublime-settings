@@ -20,5 +20,8 @@
     "trim_trailing_white_space_on_save": true,
     "gruvbox_tabs_xxs": true,
     "gruvbox_panel_xxs": true,
-    "gruvbox_statusbar_xxs": true
+    "gruvbox_statusbar_xxs": true,
+    "gruvbox_underline_active_tab": true,
+    "gruvbox_underline_active_tab_thicker": true,
+    "highlight_modified_tabs": true
 }
