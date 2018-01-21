@@ -16,5 +16,9 @@
     "tab_size": 4,
     "theme": "gruvbox (Dark) (Medium).sublime-theme",
     "translate_tabs_to_spaces": true,
-    "wrap_width": 80
+    "wrap_width": 80,
+    "trim_trailing_white_space_on_save": true,
+    "gruvbox_tabs_xxs": true,
+    "gruvbox_panel_xxs": true,
+    "gruvbox_statusbar_xxs": true
 }
