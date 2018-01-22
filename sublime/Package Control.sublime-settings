@@ -1,16 +1,17 @@
 {
-    "bootstrapped": true,
-    "in_process_packages":
-    [
-    ],
-    "installed_packages":
-    [
-        "AlignTab",
-        "gruvbox",
-        "LaTeXTools",
-        "Package Control",
-        "PackageResourceViewer",
-        "Restructured Text (RST) Snippets",
-        "RestructuredText Improved"
-    ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"gruvbox",
+		"LaTeXTools",
+		"Markdown Preview",
+		"Package Control",
+		"PackageResourceViewer",
+		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved"
+	]
 }

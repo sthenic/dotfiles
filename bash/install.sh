@@ -1,4 +1,14 @@
 SOURCE_DIR="$(cd "$(dirname $0)" && pwd)"
 
-rm ~/.bash_aliases
-ln -s $SOURCE_DIR/bash_aliases ~/.bash_aliases
+declare -a IFILES=(
+    "bash_aliases"
+)
+declare -a OFILES=(
+    ".bash_aliases"
+)
+
+for i in "${IFILES[@]}"
+do
+    rm ~/"${OFILES[@]}"
+    ln -s $SOURCE_DIR/"$i" ~/"${OFILES[@]}"
+done
