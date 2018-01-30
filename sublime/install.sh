@@ -6,6 +6,8 @@ declare -a FILES=(
     "Package Control.sublime-settings"
     "Default (Linux).sublime-keymap"
     "Markdown.sublime-settings"
+    "TeX.sublime-settings"
+    "LaTeX.sublime-settings"
 )
 
 for i in "${FILES[@]}"
