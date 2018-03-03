@@ -16,3 +16,4 @@ alias gls='git log --numstat'
 
 # Paths
 alias gitdir='cd ~/Documents/git'
+alias tg='gitdir && cd technogram'
