@@ -1,4 +1,9 @@
 {
+	"added_words":
+	[
+		"metadata",
+		"prepending"
+	],
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -26,13 +31,13 @@
 	],
 	"rulers":
 	[
-		80
+		79
 	],
 	"show_encoding": true,
 	"tab_size": 4,
 	"theme": "gruvbox (Dark) (Medium).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"wrap_width": 80
+	"word_wrap": true,
+	"wrap_width": 79
 }
