@@ -46,5 +46,6 @@
         "~/Documents/git/dotfiles"
     ],
     "workbench.startupEditor": "newUntitledFile",
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "restructuredtext.linter.run": "off"
 }
