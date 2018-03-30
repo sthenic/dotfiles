@@ -1,44 +1,52 @@
 {
-    "added_words":
-    [
-        "metadata",
-        "prepending"
-    ],
-    "color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
-    "default_line_ending": "unix",
-    "detect_indentation": false,
-    "ensure_newline_at_eof_on_save": true,
-    "font_face": "DejaVu Sans Mono",
-    "font_size": 11,
-    "gruvbox_disable_faded_file_icons": true,
-    "gruvbox_folder_icons_square": true,
-    "gruvbox_highlight_active_tree_row": true,
-    "gruvbox_iconset_midstroke": true,
-    "gruvbox_iconset_spacegray": true,
-    "gruvbox_panel_xxs": true,
-    "gruvbox_sidebar_compact": true,
-    "gruvbox_sidebar_indent_xs": true,
-    "gruvbox_statusbar_xxs": true,
-    "gruvbox_tabs_xxs": true,
-    "gruvbox_underline_active_tab": true,
-    "gruvbox_underline_active_tab_thicker": true,
-    "gruvbox_underline_modified_tabs": true,
-    "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
-        "RestructuredText",
-        "Vintage"
-    ],
-    "rulers":
-    [
-        80
-    ],
-    "show_encoding": true,
-    "tab_size": 4,
-    "theme": "One Dark.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_wrap": true,
-    "wrap_width": 79,
-    "auto_complete_triggers": [ {"selector": "text.tex", "characters": "\\"} ]
+	"added_words":
+	[
+		"metadata",
+		"prepending"
+	],
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "\\",
+			"selector": "text.tex"
+		}
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 11,
+	"gruvbox_disable_faded_file_icons": true,
+	"gruvbox_folder_icons_square": true,
+	"gruvbox_highlight_active_tree_row": true,
+	"gruvbox_iconset_midstroke": true,
+	"gruvbox_iconset_spacegray": true,
+	"gruvbox_panel_xxs": true,
+	"gruvbox_sidebar_compact": true,
+	"gruvbox_sidebar_indent_xs": true,
+	"gruvbox_statusbar_xxs": true,
+	"gruvbox_tabs_xxs": true,
+	"gruvbox_underline_active_tab": true,
+	"gruvbox_underline_active_tab_thicker": true,
+	"gruvbox_underline_modified_tabs": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"RestructuredText",
+		"Vintage"
+	],
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_tab": true,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 79
 }

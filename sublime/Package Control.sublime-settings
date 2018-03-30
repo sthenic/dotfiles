@@ -5,11 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AlignTab",
 		"AutoPEP8",
+		"GitGutter",
 		"gruvbox",
 		"LaTeXTools",
 		"Markdown Preview",
+		"Material Theme",
 		"Package Control",
 		"PackageResourceViewer",
 		"Restructured Text (RST) Snippets",
