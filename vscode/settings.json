@@ -42,7 +42,8 @@
     },
     "vscodeWorkspaceSwitcher.paths": [
         "~/Documents/git/technogram",
-        "~/Documents/git/cadmus"
+        "~/Documents/git/cadmus",
+        "~/Documents/git/dotfiles"
     ],
     "workbench.startupEditor": "newUntitledFile",
     "python.linting.pylintEnabled": false
