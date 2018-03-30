@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"AutoPEP8",
 		"gruvbox",
 		"LaTeXTools",
 		"Markdown Preview",
@@ -13,6 +14,7 @@
 		"PackageResourceViewer",
 		"Restructured Text (RST) Snippets",
 		"RestructuredText Improved",
-		"Text Pastry"
+		"Text Pastry",
+		"Theme - One Dark"
 	]
 }
