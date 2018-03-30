@@ -17,3 +17,6 @@ alias gls='git log --numstat'
 # Paths
 alias gitdir='cd ~/Documents/git'
 alias tg='gitdir && cd technogram'
+
+# Visual studio code (needed due to bug https://github.com/Microsoft/vscode/issues/41513)
+alias code='code --disable-gpu'

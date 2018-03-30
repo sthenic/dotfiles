@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "Material Theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Default"
+    },
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.fontSize": 14,
+    "editor.fontWeight": "normal",
+    "editor.insertSpaces": true,
+    "editor.matchBrackets": true,
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.occurrencesHighlight": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.scrollBeyondLastLine": false,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "editor.renderWhitespace": "boundary",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "latex-workshop.latex.autoBuild.onSave.enabled": false,
+    "[tex]": {
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+    },
+    "[latex]": {
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+    },
+    "workbench.sideBar.location": "left",
+    "editor.wordWrapColumn": 79,
+    "[plaintext]": {
+        "editor.wordWrap": "wordWrapColumn"
+    },
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn"
+    },
+    "vscodeWorkspaceSwitcher.paths": [
+        "~/Documents/git/technogram",
+        "~/Documents/git/cadmus"
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "python.linting.pylintEnabled": false
+}
