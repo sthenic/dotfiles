@@ -48,5 +48,6 @@
     "workbench.startupEditor": "newUntitledFile",
     "python.linting.pylintEnabled": false,
     "restructuredtext.linter.run": "off",
-    "python.pythonPath": "python3"
+    "python.pythonPath": "python3",
+    "search.location": "panel"
 }
