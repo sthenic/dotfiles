@@ -47,5 +47,6 @@
     ],
     "workbench.startupEditor": "newUntitledFile",
     "python.linting.pylintEnabled": false,
-    "restructuredtext.linter.run": "off"
+    "restructuredtext.linter.run": "off",
+    "python.pythonPath": "python3"
 }

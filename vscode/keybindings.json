@@ -7,5 +7,13 @@
     {
         "key": "ctrl+k w",
         "command": "-extension.switchWorkspace"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "-workbench.action.gotoSymbol"
     }
 ]
