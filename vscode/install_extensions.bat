@@ -1,5 +1,6 @@
 call code --install-extension Equinusocio.vsc-material-theme
 call code --install-extension James-Yu.latex-workshop
+call code --install-extension himanoa.Python-autopep8
 call code --install-extension lextudio.restructuredtext
 call code --install-extension ms-python.python
 call code --install-extension ms-vscode.cpptools
