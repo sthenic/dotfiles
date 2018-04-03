@@ -5,7 +5,6 @@ code --install-extension lextudio.restructuredtext
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
 code --install-extension mshr-h.veriloghdl
-code --install-extension sadesyllas.vscode-workspace-switcher
 code --install-extension shuworks.vscode-table-formatter
 code --install-extension stkb.rewrap
 code --install-extension trixnz.vscode-lua

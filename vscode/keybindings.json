@@ -1,14 +1,6 @@
 // Place your key bindings in this file to overwrite the defaults
 [
     {
-        "key": "ctrl+alt+p",
-        "command": "extension.switchWorkspace"
-    },
-    {
-        "key": "ctrl+k w",
-        "command": "-extension.switchWorkspace"
-    },
-    {
         "key": "ctrl+r",
         "command": "workbench.action.gotoSymbol"
     },
@@ -35,5 +27,13 @@
         "key": "alt+down",
         "command": "-editor.action.moveLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+alt+p",
+        "command": "workbench.action.openRecent"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "-workbench.action.openRecent"
     }
 ]

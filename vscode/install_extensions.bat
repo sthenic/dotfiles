@@ -5,7 +5,6 @@ call code --install-extension lextudio.restructuredtext
 call code --install-extension ms-python.python
 call code --install-extension ms-vscode.cpptools
 call code --install-extension mshr-h.veriloghdl
-call code --install-extension sadesyllas.vscode-workspace-switcher
 call code --install-extension shuworks.vscode-table-formatter
 call code --install-extension stkb.rewrap
 call code --install-extension trixnz.vscode-lua

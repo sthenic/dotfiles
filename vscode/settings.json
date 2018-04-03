@@ -40,12 +40,6 @@
     "[markdown]": {
         "editor.wordWrap": "wordWrapColumn"
     },
-    "vscodeWorkspaceSwitcher.paths": [
-        "~/Documents/git/technogram",
-        "~/Documents/git/cadmus",
-        "~/Documents/git/dotfiles",
-        "~/Documents/git/lins"
-    ],
     "workbench.startupEditor": "newUntitledFile",
     "python.linting.pylintEnabled": false,
     "restructuredtext.linter.run": "off",
