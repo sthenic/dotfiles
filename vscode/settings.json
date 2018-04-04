@@ -47,5 +47,6 @@
     "search.location": "panel",
     "[verilog]": {
         "editor.tabSize": 3
-    }
+    },
+    "workbench.statusBar.feedback.visible": false
 }
