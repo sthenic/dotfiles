@@ -48,5 +48,6 @@
     "[verilog]": {
         "editor.tabSize": 3
     },
-    "workbench.statusBar.feedback.visible": false
+    "workbench.statusBar.feedback.visible": false,
+    "editor.detectIndentation": false
 }
