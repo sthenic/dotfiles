@@ -33,7 +33,7 @@
         "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?"
     },
     "workbench.sideBar.location": "left",
-    "editor.wordWrapColumn": 79,
+    "editor.wordWrapColumn": 80,
     "[plaintext]": {
         "editor.wordWrap": "wordWrapColumn"
     },
@@ -49,5 +49,6 @@
         "editor.tabSize": 3
     },
     "workbench.statusBar.feedback.visible": false,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "rewrap.wrappingColumn": 80
 }
