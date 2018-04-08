@@ -1,0 +1,16 @@
+{
+    "main": {
+        "prefix": "main",
+        "body": [
+            "int main(int argc, const char *argv[])",
+            "{",
+            "\t(void)argc;",
+            "\t(void)argv;",
+            "",
+            "\t$0",
+            "",
+            "\treturn 0;",
+            "}"
+        ]
+    }
+}
