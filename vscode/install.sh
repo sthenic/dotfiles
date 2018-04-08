@@ -8,7 +8,7 @@ declare -a FILES=(
 
 for i in "${FILES[@]}"
 do
-    rm $VSCODE_DIR/"$i"
+    rm -f $VSCODE_DIR/"$i"
     ln -s $SOURCE_DIR/"$i" $VSCODE_DIR/"$i"
 done
 
@@ -19,6 +19,6 @@ declare -a DIRECTORIES=(
 
 for i in "${DIRECTORIES[@]}"
 do
-    rm -r $VSCODE_DIR/"$i"
+    rm -rf $VSCODE_DIR/"$i"
     ln -s $SOURCE_DIR/"$i" $VSCODE_DIR/"$i"
 done

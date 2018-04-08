@@ -9,6 +9,6 @@ declare -a OFILES=(
 
 for i in "${IFILES[@]}"
 do
-    rm ~/"${OFILES[@]}"
+    rm -f ~/"${OFILES[@]}"
     ln -s $SOURCE_DIR/"$i" ~/"${OFILES[@]}"
 done
