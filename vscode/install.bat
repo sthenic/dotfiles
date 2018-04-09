@@ -9,7 +9,7 @@ set DIR_LIST=(snippets)
 
 for %%x in %FILE_LIST% do (
     if EXIST %%x (
-        echo Removing file %%x as a precondition to symlinking.
+        echo Removing file "%%x" as a precondition to symlinking.
         del "%BASE_PATH%\%%x"
     )
     rem Create a hard symbolic link to the configuration file.
@@ -18,11 +18,11 @@ for %%x in %FILE_LIST% do (
 
 for %%x in %DIR_LIST% do (
     if EXIST %%x (
-        echo Removing directory %%x as a precondition to symlinking.
-        rd /S "%BASE_PATH%\%%x"
+        echo Removing directory "%%x" as a precondition to symlinking.
+        rd /S /Q "%BASE_PATH%\%%x"
     )
     rem Create a hard symbolic link to the directory.
-    mklink /D /H "%BASE_PATH%\%%x" "%%x"
+    mklink /D "%BASE_PATH%\%%x" "%~dp0%%x"
 )
 GOTO EXIT
 

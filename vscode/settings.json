@@ -13,7 +13,7 @@
     "editor.matchBrackets": true,
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
-    "editor.occurrencesHighlight": true,
+    "editor.occurrencesHighlight": false,
     "editor.rulers": [
         80
     ],
@@ -50,5 +50,6 @@
     },
     "workbench.statusBar.feedback.visible": false,
     "editor.detectIndentation": false,
-    "rewrap.wrappingColumn": 80
+    "rewrap.wrappingColumn": 80,
+    "window.zoomLevel": 0
 }
