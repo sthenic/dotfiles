@@ -9,6 +9,7 @@ call code --install-extension ms-python.python
 call code --install-extension ms-vscode.cpptools
 call code --install-extension mshr-h.veriloghdl
 call code --install-extension shuworks.vscode-table-formatter
+call code --install-extension sleutho.tcl
 call code --install-extension stkb.rewrap
 call code --install-extension trixnz.vscode-lua
 call code --install-extension xaver.clang-format

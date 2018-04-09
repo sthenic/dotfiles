@@ -9,6 +9,7 @@ code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
 code --install-extension mshr-h.veriloghdl
 code --install-extension shuworks.vscode-table-formatter
+code --install-extension sleutho.tcl
 code --install-extension stkb.rewrap
 code --install-extension trixnz.vscode-lua
 code --install-extension xaver.clang-format
