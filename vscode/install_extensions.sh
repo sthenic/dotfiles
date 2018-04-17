@@ -11,5 +11,6 @@ code --install-extension mshr-h.veriloghdl
 code --install-extension shuworks.vscode-table-formatter
 code --install-extension sleutho.tcl
 code --install-extension stkb.rewrap
+code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension trixnz.vscode-lua
 code --install-extension xaver.clang-format
