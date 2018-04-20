@@ -27,10 +27,20 @@
     "telemetry.enableTelemetry": false,
     "latex-workshop.latex.autoBuild.onSave.enabled": false,
     "[tex]": {
-        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
     },
     "[latex]": {
-        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?"
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
     },
     "workbench.sideBar.location": "left",
     "editor.wordWrapColumn": 80,
@@ -51,5 +61,7 @@
     "workbench.statusBar.feedback.visible": false,
     "editor.detectIndentation": false,
     "rewrap.wrappingColumn": 80,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\cygwin\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["/bin/xhere", "/bin/bash"]
 }
