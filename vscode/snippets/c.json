@@ -12,5 +12,20 @@
             "\treturn 0;",
             "}"
         ]
+    },
+    "pymodule": {
+        "prefix": "pymodule",
+        "body": [
+            "#include <Python.h>",
+            "",
+            "static const char module_docstring[] = \"Module $1\";",
+            "static PyMethodDef module_methods[] = {{NULL, NULL, 0, NULL}};",
+            "static struct PyModuleDef cmodule_def = {PyModuleDef_HEAD_INIT, \"_$1\", module_docstring, -1, module_methods};",
+            "",
+            "PyMODINIT_FUNC PyInit__$1(void)",
+            "{",
+            "\treturn PyModule_Create(&$1_def);",
+            "}"
+        ]
     }
 }
