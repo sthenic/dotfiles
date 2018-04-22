@@ -51,5 +51,7 @@
     "workbench.statusBar.feedback.visible": false,
     "editor.detectIndentation": false,
     "rewrap.wrappingColumn": 80,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "latex-workshop.message.update.show": false,
+    "diffEditor.renderSideBySide": false
 }
