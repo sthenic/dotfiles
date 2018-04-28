@@ -65,5 +65,8 @@
     "latex-workshop.message.update.show": false,
     "diffEditor.renderSideBySide": false,
     "terminal.integrated.shell.windows": "C:\\cygwin\\bin\\bash.exe",
-    "terminal.integrated.shellArgs.windows": ["/bin/xhere", "/bin/bash"]
+    "terminal.integrated.shellArgs.windows": [
+        "/bin/xhere",
+        "/bin/bash"
+    ]
 }
