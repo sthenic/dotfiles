@@ -1,5 +1,6 @@
 {
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons",
     "materialTheme.cache.workbench.settings": {
         "themeColours": "Default"
     },
@@ -22,7 +23,8 @@
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "files.eol": "\n",
-    "editor.renderWhitespace": "boundary",
+    "editor.renderWhitespace": "none",
+    "editor.renderIndentGuides": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "latex-workshop.latex.autoBuild.onSave.enabled": false,
