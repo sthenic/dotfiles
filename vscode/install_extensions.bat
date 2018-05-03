@@ -4,6 +4,7 @@ call code --install-extension cpmcgrath.codealignment-vscode
 call code --install-extension himanoa.Python-autopep8
 call code --install-extension jkjustjoshing.vscode-text-pastry
 call code --install-extension johnstoncode.svn-scm
+call code --install-extension kosz78.nim
 call code --install-extension lextudio.restructuredtext
 call code --install-extension ms-python.python
 call code --install-extension ms-vscode.cpptools
