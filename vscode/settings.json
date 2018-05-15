@@ -70,5 +70,10 @@
     "terminal.integrated.shellArgs.windows": [
         "/bin/xhere",
         "/bin/bash"
-    ]
+    ],
+    "[nim]": {
+        "editor.tabSize": 3
+    },
+    "editor.smoothScrolling": false,
+    "editor.autoIndent": false
 }
