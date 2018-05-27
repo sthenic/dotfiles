@@ -1,3 +1,4 @@
+call code --install-extension 13xforever.language-x86-64-assembly
 call code --install-extension Equinusocio.vsc-material-theme
 call code --install-extension James-Yu.latex-workshop
 call code --install-extension cpmcgrath.codealignment-vscode
