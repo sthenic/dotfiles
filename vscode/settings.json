@@ -34,7 +34,8 @@
             "other": false,
             "comments": false,
             "strings": false
-        }
+        },
+        "editor.tabSize": 2
     },
     "[latex]": {
         "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?",
@@ -42,7 +43,8 @@
             "other": false,
             "comments": false,
             "strings": false
-        }
+        },
+        "editor.tabSize": 2
     },
     "workbench.sideBar.location": "left",
     "editor.wordWrapColumn": 80,
