@@ -84,9 +84,9 @@
             "focusBorder": "#555555",
             "list.highlightForeground": "#b8bb26",
             "selection.background": "#b8bb265f",
-            "list.activeSelectionBackground": "#b8bb267f",
+            "list.activeSelectionBackground": "#444444",
             "foreground": "#fbf1c7dd",
-            "gitDecoration.untrackedResourceForeground": "#fabd2f",
+            "gitDecoration.untrackedResourceForeground": "#d3869b",
             "gitDecoration.ignoredResourceForeground": "#fbf1c766",
             "gitDecoration.modifiedResourceForeground": "#b8bb26",
             "tab.activeForeground": "#fbf1c7dd",
@@ -102,7 +102,12 @@
             "terminal.ansiYellow": "#fabd2f",
             "terminal.ansiBrightYellow": "#fabd2f",
             "input.placeholderForeground": "#fbf1c766",
-            "pickerGroup.foreground": "#b8bb26"
+            "pickerGroup.foreground": "#b8bb26",
+            "list.warningForeground": "#fabd2f",
+            "list.errorForeground": "#fb4934",
+            "list.inactiveSelectionBackground": "#444444",
+            "sideBarSectionHeader.background": "#333333",
+            "activityBar.background": "#333333"
         }
     }
 }
