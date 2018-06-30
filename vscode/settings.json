@@ -107,7 +107,10 @@
             "list.errorForeground": "#fb4934",
             "list.inactiveSelectionBackground": "#444444",
             "sideBarSectionHeader.background": "#333333",
-            "activityBar.background": "#333333"
+            "activityBar.background": "#333333",
+            "editorGutter.addedBackground": "#b8bb26cc",
+            "editorGutter.modifiedBackground": "#5092dccc",
+            "editorGutter.deletedBackground": "#fb4934cc"
         }
     }
 }
