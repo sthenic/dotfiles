@@ -1,10 +1,7 @@
 {
-    "workbench.colorTheme": "Material Theme High Contrast",
-    "workbench.iconTheme": "eq-material-theme-icons",
-    "materialTheme.cache.workbench.settings": {
-        "themeColours": "Default"
-    },
-    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Gruvbox Dark (Medium)",
+    "workbench.iconTheme": null,
+    "window.menuBarVisibility": "hidden",
     "editor.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
@@ -77,5 +74,35 @@
         "editor.tabSize": 3
     },
     "editor.smoothScrolling": false,
-    "editor.autoIndent": false
+    "editor.autoIndent": false,
+    "materialTheme.fixIconsRunning": false,
+    "workbench.colorCustomizations": {
+        "[Gruvbox Dark (Medium)]": {
+            "statusBar.background": "#333333",
+            "list.focusBackground": "#333333",
+            "input.border": "#555555",
+            "focusBorder": "#555555",
+            "list.highlightForeground": "#b8bb26",
+            "selection.background": "#b8bb265f",
+            "list.activeSelectionBackground": "#b8bb267f",
+            "foreground": "#fbf1c7dd",
+            "gitDecoration.untrackedResourceForeground": "#fabd2f",
+            "gitDecoration.ignoredResourceForeground": "#fbf1c766",
+            "gitDecoration.modifiedResourceForeground": "#b8bb26",
+            "tab.activeForeground": "#fbf1c7dd",
+            "tab.inactiveForeground": "#fbf1c766",
+            "activityBarBadge.background": "#83851b",
+            "extensionButton.prominentBackground": "#83851b",
+            "terminal.ansiGreen": "#b8bb26",
+            "terminal.ansiBrightGreen": "#b8bb26",
+            "terminal.ansiBlue": "#5092dc",
+            "terminal.ansiBrightBlue": "#5092dc",
+            "terminal.ansiRed": "#fb4934",
+            "terminal.ansiBrightRed": "#fb4934",
+            "terminal.ansiYellow": "#fabd2f",
+            "terminal.ansiBrightYellow": "#fabd2f",
+            "input.placeholderForeground": "#fbf1c766",
+            "pickerGroup.foreground": "#b8bb26"
+        }
+    }
 }

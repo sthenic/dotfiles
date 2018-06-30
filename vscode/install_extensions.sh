@@ -1,7 +1,7 @@
 code --install-extension 13xforever.language-x86-64-assembly
-code --install-extension Equinusocio.vsc-material-theme
 code --install-extension James-Yu.latex-workshop
 code --install-extension cpmcgrath.codealignment-vscode
+code --install-extension Equinusocio.vsc-material-theme
 code --install-extension himanoa.Python-autopep8
 code --install-extension jkjustjoshing.vscode-text-pastry
 code --install-extension johnstoncode.svn-scm
@@ -14,5 +14,6 @@ code --install-extension shuworks.vscode-table-formatter
 code --install-extension sleutho.tcl
 code --install-extension stkb.rewrap
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension tomphilbin.gruvbox-themes
 code --install-extension trixnz.vscode-lua
 code --install-extension xaver.clang-format
