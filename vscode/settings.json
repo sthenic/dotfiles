@@ -81,9 +81,8 @@
     "workbench.colorCustomizations": {
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
-            "list.focusBackground": "#333333",
+            "list.focusBackground": "#3c3836",
             "editorWidget.background": "#202020",
-            "editorWidget.border": "#fbf1c7aa",
             "input.border": "#fbf1c744",
             "input.background": "#282828",
             "focusBorder": "#555555",
