@@ -76,6 +76,8 @@
     "editor.smoothScrolling": false,
     "editor.autoIndent": false,
     "materialTheme.fixIconsRunning": false,
+    "terminal.integrated.fontFamily": "'Ubuntu Mono'",
+    "terminal.integrated.fontSize": 16,
     "workbench.colorCustomizations": {
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
@@ -86,9 +88,9 @@
             "selection.background": "#b8bb265f",
             "list.activeSelectionBackground": "#444444",
             "foreground": "#fbf1c7dd",
-            "gitDecoration.untrackedResourceForeground": "#d3869b",
+            "gitDecoration.untrackedResourceForeground": "#b8bb26",
             "gitDecoration.ignoredResourceForeground": "#fbf1c766",
-            "gitDecoration.modifiedResourceForeground": "#b8bb26",
+            "gitDecoration.modifiedResourceForeground": "#83a598",
             "tab.activeForeground": "#fbf1c7dd",
             "tab.inactiveForeground": "#fbf1c766",
             "activityBarBadge.background": "#83851b",
@@ -101,6 +103,8 @@
             "terminal.ansiBrightRed": "#fb4934",
             "terminal.ansiYellow": "#fabd2f",
             "terminal.ansiBrightYellow": "#fabd2f",
+            "terminal.ansiMagenta": "#d3869b",
+            "terminal.ansiBrightMagenta": "#d3869b",
             "input.placeholderForeground": "#fbf1c766",
             "pickerGroup.foreground": "#b8bb26",
             "list.warningForeground": "#fabd2f",
@@ -108,9 +112,14 @@
             "list.inactiveSelectionBackground": "#444444",
             "sideBarSectionHeader.background": "#333333",
             "activityBar.background": "#333333",
-            "editorGutter.addedBackground": "#b8bb26cc",
-            "editorGutter.modifiedBackground": "#5092dccc",
-            "editorGutter.deletedBackground": "#fb4934cc"
+            "editorGutter.addedBackground": "#b8bb26",
+            "editorGutter.modifiedBackground": "#83a598",
+            "editorGutter.deletedBackground": "#fb4934",
+            "statusBar.foreground": "#fbf1c7",
+            "activityBar.foreground": "#fbf1c7",
+            "editorOverviewRuler.deletedForeground": "#fb4934",
+            "editorOverviewRuler.addedForeground": "#b8bb26",
+            "editorOverviewRuler.modifiedForeground": "#83a598"
         }
     }
 }
