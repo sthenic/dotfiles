@@ -1,7 +1,7 @@
 {
-    "workbench.colorTheme": "Gruvbox Dark (Medium)",
+    "workbench.colorTheme": "Outrun",
     "workbench.iconTheme": null,
-    "window.menuBarVisibility": "hidden",
+    "window.menuBarVisibility": "default",
     "editor.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
@@ -140,7 +140,10 @@
             "sideBar.background": "#202020",
             "editorGroupHeader.tabsBackground": "#202020",
             "editorGroup.dropBackground": "#282828aa",
-            "tab.activeBorderTop": "#fbf1c7aa"
+            "tab.activeBorderTop": "#fbf1c7aa",
+            "titleBar.activeBackground": "#202020",
+            "titleBar.activeForeground": "#fbf1c7dd"
         }
-    }
+    },
+    "window.titleBarStyle": "custom"
 }

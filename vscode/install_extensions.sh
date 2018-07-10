@@ -1,8 +1,8 @@
 code --install-extension 13xforever.language-x86-64-assembly
-code --install-extension James-Yu.latex-workshop
 code --install-extension cpmcgrath.codealignment-vscode
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension himanoa.Python-autopep8
+code --install-extension James-Yu.latex-workshop
 code --install-extension jkjustjoshing.vscode-text-pastry
 code --install-extension johnstoncode.svn-scm
 code --install-extension kosz78.nim
@@ -10,6 +10,7 @@ code --install-extension lextudio.restructuredtext
 code --install-extension ms-python.python
 code --install-extension ms-vscode.cpptools
 code --install-extension mshr-h.veriloghdl
+code --install-extension samrapdev.outrun
 code --install-extension shuworks.vscode-table-formatter
 code --install-extension sleutho.tcl
 code --install-extension stkb.rewrap
