@@ -65,22 +65,20 @@
     "window.zoomLevel": 0,
     "latex-workshop.message.update.show": false,
     "diffEditor.renderSideBySide": false,
-    "terminal.integrated.shell.windows": "C:\\cygwin\\bin\\bash.exe",
-    "terminal.integrated.shellArgs.windows": [
-        "/bin/xhere",
-        "/bin/bash"
-    ],
     "[nim]": {
         "editor.tabSize": 3
     },
+    "svn.autorefresh": false,
     "editor.smoothScrolling": false,
     "editor.autoIndent": false,
     "materialTheme.fixIconsRunning": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.fontFamily": "'Ubuntu Mono'",
     "terminal.integrated.fontSize": 16,
     "workbench.colorCustomizations": {
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
+            "statusBar.noFolderBackground": "#333333",
             "list.focusBackground": "#3c3836",
             "editorWidget.background": "#202020",
             "input.border": "#fbf1c744",
@@ -145,5 +143,6 @@
             "titleBar.activeForeground": "#fbf1c7dd"
         }
     },
-    "window.titleBarStyle": "custom"
+    "window.titleBarStyle": "custom",
+    "breadcrumbs.enabled": false
 }
