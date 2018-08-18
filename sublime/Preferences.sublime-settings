@@ -11,7 +11,7 @@
 			"selector": "text.tex"
 		}
 	],
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -44,7 +44,7 @@
 	],
 	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "gruvbox (Dark) (Medium).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
