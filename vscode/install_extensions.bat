@@ -13,6 +13,7 @@ call code --install-extension mshr-h.veriloghdl
 call code --install-extension samrapdev.outrun
 call code --install-extension shuworks.vscode-table-formatter
 call code --install-extension sleutho.tcl
+call code --install-extension Stephanvs.dot
 call code --install-extension stkb.rewrap
 call code --install-extension streetsidesoftware.code-spell-checker
 call code --install-extension tomphilbin.gruvbox-themes
