@@ -141,6 +141,20 @@
             "tab.activeBorderTop": "#fbf1c7aa",
             "titleBar.activeBackground": "#202020",
             "titleBar.activeForeground": "#fbf1c7dd"
+        },
+        "[Outrun Electric]": {
+            "list.inactiveSelectionBackground": "#646dac",
+            "list.activeSelectionBackground": "#646dac",
+            "list.hoverBackground": "#646dac",
+            "list.focusBackground": "#646dac",
+            "editorGroup.dropBackground": "#7984D155"
+        },
+        "[Outrun Night]": {
+            "list.inactiveSelectionBackground": "#646dac",
+            "list.activeSelectionBackground": "#646dac",
+            "list.hoverBackground": "#646dac",
+            "list.focusBackground": "#646dac",
+            "editorGroup.dropBackground": "#7984D155"
         }
     },
     "window.titleBarStyle": "custom",
