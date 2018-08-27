@@ -73,8 +73,8 @@
     "editor.autoIndent": false,
     "materialTheme.fixIconsRunning": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
-    "terminal.integrated.fontFamily": "'Ubuntu Mono'",
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
