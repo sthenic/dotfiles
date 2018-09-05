@@ -26,7 +26,7 @@
     "telemetry.enableTelemetry": false,
     "latex-workshop.latex.autoBuild.onSave.enabled": false,
     "[tex]": {
-        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?@",
         "editor.quickSuggestions": {
             "other": false,
             "comments": false,
@@ -35,7 +35,7 @@
         "editor.tabSize": 2
     },
     "[latex]": {
-        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+        "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?@",
         "editor.quickSuggestions": {
             "other": false,
             "comments": false,
@@ -71,7 +71,6 @@
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
     "editor.autoIndent": false,
-    "materialTheme.fixIconsRunning": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
@@ -158,5 +157,7 @@
         }
     },
     "window.titleBarStyle": "custom",
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "workbench.settings.editor": "json",
+    "terminal.integrated.rendererType": "dom"
 }
