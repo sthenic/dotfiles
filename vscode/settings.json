@@ -72,6 +72,7 @@
     "editor.smoothScrolling": false,
     "editor.autoIndent": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["-i"],
     "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
