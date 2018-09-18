@@ -160,5 +160,8 @@
     "window.titleBarStyle": "custom",
     "breadcrumbs.enabled": false,
     "workbench.settings.editor": "json",
-    "terminal.integrated.rendererType": "dom"
+    "terminal.integrated.rendererType": "dom",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.channel": "none",
+    "extensions.autoUpdate": false
 }
