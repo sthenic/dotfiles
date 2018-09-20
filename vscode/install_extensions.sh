@@ -1,5 +1,6 @@
 code --install-extension 13xforever.language-x86-64-assembly
 code --install-extension cpmcgrath.codealignment-vscode
+code --install-extension DotJoshJohnson.xml
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension himanoa.Python-autopep8
 code --install-extension James-Yu.latex-workshop
