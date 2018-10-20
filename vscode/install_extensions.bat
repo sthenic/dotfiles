@@ -19,4 +19,5 @@ call code --install-extension stkb.rewrap
 call code --install-extension streetsidesoftware.code-spell-checker
 call code --install-extension tomphilbin.gruvbox-themes
 call code --install-extension trixnz.vscode-lua
+call code --install-extension wayou.vscode-todo-highlight
 call code --install-extension xaver.clang-format

@@ -19,4 +19,5 @@ code --install-extension stkb.rewrap
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension tomphilbin.gruvbox-themes
 code --install-extension trixnz.vscode-lua
+code --install-extension wayou.vscode-todo-highlight
 code --install-extension xaver.clang-format
