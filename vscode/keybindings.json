@@ -115,5 +115,21 @@
         "key": "ctrl+down",
         "command": "-scrollLineDown",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+] ctrl+\\",
+        "command": "workbench.action.moveEditorToNextGroup"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "-workbench.action.moveEditorToNextGroup"
+    },
+    {
+        "key": "ctrl+[ ctrl+\\",
+        "command": "workbench.action.moveEditorToPreviousGroup"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "-workbench.action.moveEditorToPreviousGroup"
     }
 ]
