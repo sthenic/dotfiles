@@ -1,8 +1,8 @@
 {
-    "workbench.colorTheme": "Outrun Electric",
+    "workbench.colorTheme": "henna",
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
@@ -73,7 +73,7 @@
     "editor.autoIndent": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.shellArgs.windows": ["-i"],
-    "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "[Gruvbox Dark (Medium)]": {
