@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "henna",
+    "workbench.colorTheme": "Horizon",
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
     "editor.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
@@ -155,6 +155,19 @@
             "list.hoverBackground": "#646dac",
             "list.focusBackground": "#646dac",
             "editorGroup.dropBackground": "#7984D155"
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[Horizon]": {
+            "textMateRules": [
+                {
+                    "name": "Comments",
+                    "scope": "comment",
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                }
+            ]
         }
     },
     "window.titleBarStyle": "custom",

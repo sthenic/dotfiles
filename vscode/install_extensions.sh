@@ -6,6 +6,7 @@ code --install-extension himanoa.Python-autopep8
 code --install-extension James-Yu.latex-workshop
 code --install-extension jkjustjoshing.vscode-text-pastry
 code --install-extension johnstoncode.svn-scm
+code --install-extension jolaleye.horizon-theme-vscode
 code --install-extension kosz78.nim
 code --install-extension lextudio.restructuredtext
 code --install-extension ms-python.python
