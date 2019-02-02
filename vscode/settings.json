@@ -168,6 +168,9 @@
                     }
                 }
             ]
+        },
+        "[Nord]": {
+            "comments": "#6d7a96"
         }
     },
     "window.titleBarStyle": "custom",
