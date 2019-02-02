@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Horizon",
+    "workbench.colorTheme": "Nord",
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
     "editor.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
@@ -176,5 +176,6 @@
     "terminal.integrated.rendererType": "dom",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "update.channel": "none",
-    "extensions.autoUpdate": false
+    "extensions.autoUpdate": false,
+    "workbench.editor.enablePreview": false
 }

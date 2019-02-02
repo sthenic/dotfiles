@@ -1,4 +1,5 @@
 call code --install-extension 13xforever.language-x86-64-assembly
+call code --install-extension arcticicestudio.nord-visual-studio-code
 call code --install-extension cpmcgrath.codealignment-vscode
 call code --install-extension DotJoshJohnson.xml
 call code --install-extension Equinusocio.vsc-material-theme
