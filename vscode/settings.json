@@ -178,7 +178,7 @@
     "workbench.settings.editor": "json",
     "terminal.integrated.rendererType": "dom",
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "update.channel": "none",
+    "update.channel": "manual",
     "extensions.autoUpdate": false,
     "workbench.editor.enablePreview": false
 }
