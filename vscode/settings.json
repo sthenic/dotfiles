@@ -180,5 +180,12 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "update.channel": "manual",
     "extensions.autoUpdate": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "gitlens.codeLens.enabled": false
 }
