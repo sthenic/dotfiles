@@ -187,5 +187,8 @@
     "gitlens.advanced.messages": {
         "suppressLineUncommittedWarning": true
     },
-    "gitlens.codeLens.enabled": false
+    "gitlens.codeLens.enabled": false,
+    "restructuredtext.preview.scrollPreviewWithEditor": false,
+    "restructuredtext.preview.scrollEditorWithPreview": false,
+    "editor.parameterHints.enabled": false
 }
