@@ -66,7 +66,13 @@
     "latex-workshop.message.update.show": false,
     "diffEditor.renderSideBySide": false,
     "[nim]": {
-        "editor.tabSize": 3
+        "editor.tabSize": 3,
+        "editor.snippetSuggestions": "none",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": false
+        }
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
@@ -190,5 +196,6 @@
     "gitlens.codeLens.enabled": false,
     "restructuredtext.preview.scrollPreviewWithEditor": false,
     "restructuredtext.preview.scrollEditorWithPreview": false,
-    "editor.parameterHints.enabled": false
+    "editor.parameterHints.enabled": false,
+    "latex-workshop.latex.autoBuild.run": "never"
 }
