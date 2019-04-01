@@ -24,7 +24,6 @@
     "editor.renderIndentGuides": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "latex-workshop.latex.autoBuild.onSave.enabled": false,
     "[tex]": {
         "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?@",
         "editor.quickSuggestions": {
@@ -42,6 +41,9 @@
             "strings": false
         },
         "editor.tabSize": 2
+    },
+    "[git-commit]": {
+        "editor.rulers": [80]
     },
     "workbench.sideBar.location": "left",
     "editor.wordWrapColumn": 80,
@@ -184,7 +186,7 @@
     "workbench.settings.editor": "json",
     "terminal.integrated.rendererType": "dom",
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "update.channel": "manual",
+    "update.mode": "manual",
     "extensions.autoUpdate": false,
     "workbench.editor.enablePreview": false,
     "gitlens.currentLine.enabled": false,
@@ -197,5 +199,15 @@
     "restructuredtext.preview.scrollPreviewWithEditor": false,
     "restructuredtext.preview.scrollEditorWithPreview": false,
     "editor.parameterHints.enabled": false,
-    "latex-workshop.latex.autoBuild.run": "never"
+    "latex-workshop.latex.autoBuild.run": "never",
+    "files.exclude": {
+        "**/*.db": true,
+        "**/*.png": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    }
 }
