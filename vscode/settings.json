@@ -209,5 +209,11 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/node_modules": true
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
     }
 }
