@@ -42,9 +42,6 @@
         },
         "editor.tabSize": 2
     },
-    "[git-commit]": {
-        "editor.rulers": [80]
-    },
     "workbench.sideBar.location": "left",
     "editor.wordWrapColumn": 80,
     "[plaintext]": {
@@ -215,5 +212,12 @@
     },
     "[c]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
-    }
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "svn.enableProposedApi": "none",
 }
