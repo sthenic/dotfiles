@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Nord",
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
     "editor.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
@@ -220,4 +219,5 @@
         "editor.tabSize": 2
     },
     "svn.enableProposedApi": "none",
+    "workbench.colorTheme": "Verdandi",
 }

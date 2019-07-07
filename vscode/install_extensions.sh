@@ -1,5 +1,7 @@
 code --install-extension 13xforever.language-x86-64-assembly
 code --install-extension arcticicestudio.nord-visual-studio-code
+code --install-extension be5invis.theme-verdandi
+code --install-extension cocopon.iceberg-theme
 code --install-extension cpmcgrath.codealignment-vscode
 code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens

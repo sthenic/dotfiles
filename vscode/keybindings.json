@@ -131,5 +131,27 @@
     {
         "key": "ctrl+alt+left",
         "command": "-workbench.action.moveEditorToPreviousGroup"
+    },
+    {
+        "key": "ctrl+] ctrl+]",
+        "command": "workbench.action.focusRightGroup",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+right",
+        "command": "-workbench.action.focusRightGroup"
+    },
+    {
+        "key": "ctrl+[ ctrl+[",
+        "command": "workbench.action.focusLeftGroup",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+left",
+        "command": "-workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "-editor.action.toggleTabFocusMode"
     }
 ]
