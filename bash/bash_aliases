@@ -14,6 +14,8 @@ alias gs='git status'
 alias gds='git diff --staged'
 alias gls='git log --numstat'
 alias glo='git log --oneline'
+alias glg="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+
 
 # Paths
 alias gitdir='cd ~/Documents/git'
