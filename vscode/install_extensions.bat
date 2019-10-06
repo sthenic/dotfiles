@@ -3,9 +3,11 @@ call code --install-extension arcticicestudio.nord-visual-studio-code
 call code --install-extension be5invis.theme-verdandi
 call code --install-extension cocopon.iceberg-theme
 call code --install-extension cpmcgrath.codealignment-vscode
+call code --install-extension Dj.minimal-fedu
 call code --install-extension DotJoshJohnson.xml
 call code --install-extension eamodio.gitlens
 call code --install-extension Equinusocio.vsc-material-theme
+call code --install-extension esbenp.prettier-vscode
 call code --install-extension himanoa.Python-autopep8
 call code --install-extension James-Yu.latex-workshop
 call code --install-extension jkjustjoshing.vscode-text-pastry
@@ -14,6 +16,10 @@ call code --install-extension jolaleye.horizon-theme-vscode
 call code --install-extension kosz78.nim
 call code --install-extension lextudio.restructuredtext
 call code --install-extension ms-python.python
+call code --install-extension ms-vscode-remote.remote-ssh
+call code --install-extension ms-vscode-remote.remote-ssh-edit
+call code --install-extension ms-vscode-remote.remote-ssh-explorer
+call code --install-extension ms-vscode-remote.remote-wsl
 call code --install-extension ms-vscode.cpptools
 call code --install-extension mshr-h.veriloghdl
 call code --install-extension samrapdev.outrun
