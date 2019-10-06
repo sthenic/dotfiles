@@ -157,5 +157,10 @@
     {
         "key": "ctrl+\\",
         "command": "workbench.action.terminal.split", "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.closeWindow",
+        "when": "!editorIsOpen && !multipleEditorGroups"
     }
 ]
