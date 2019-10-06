@@ -1,7 +1,7 @@
 {
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
@@ -11,6 +11,7 @@
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
     "editor.occurrencesHighlight": false,
+    "editor.fontLigatures": true,
     "editor.rulers": [
         80
     ],
@@ -77,9 +78,14 @@
     "editor.autoIndent": false,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.shellArgs.windows": ["-i"],
-    "terminal.integrated.fontFamily": "'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
+        "[Minimal Fedu]": {
+            "editorOverviewRuler.addedForeground": "#a7da1e",
+            "editorOverviewRuler.modifiedForeground": "#f7b83d",
+            "editorOverviewRuler.deletedForeground": "#e61f44"
+        },
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
             "statusBar.noFolderBackground": "#333333",
@@ -216,8 +222,11 @@
         "editor.tabSize": 2
     },
     "[javascript]": {
-        "editor.tabSize": 2
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "svn.enableProposedApi": "none",
-    "workbench.colorTheme": "Verdandi",
+    "workbench.colorTheme": "Minimal Fedu",
+    "prettier.proseWrap": "always",
+    "prettier.trailingComma": "all",
 }
