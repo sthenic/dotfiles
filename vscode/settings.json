@@ -187,6 +187,7 @@
     "breadcrumbs.enabled": false,
     "workbench.settings.editor": "json",
     "terminal.integrated.rendererType": "dom",
+    "terminal.integrated.cwd": "${fileDirname}",
     "workbench.settings.enableNaturalLanguageSearch": false,
     "update.mode": "manual",
     "extensions.autoUpdate": false,
