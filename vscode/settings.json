@@ -1,7 +1,7 @@
 {
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'Victor Mono Semibold', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
@@ -71,7 +71,10 @@
             "other": true,
             "comments": false,
             "strings": false
-        }
+        },
+        "editor.wordBasedSuggestions": false,
+        "editor.parameterHints.enabled": false,
+        "editor.suggestOnTriggerCharacters": false,
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
@@ -230,4 +233,7 @@
     "workbench.colorTheme": "Minimal Fedu",
     "prettier.proseWrap": "always",
     "prettier.trailingComma": "all",
+    "python.formatting.provider": "black",
+    "todo-tree.highlights.enabled": false,
+    "editor.quickSuggestionsDelay": 500
 }
