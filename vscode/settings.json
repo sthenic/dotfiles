@@ -54,7 +54,6 @@
     "python.linting.pylintEnabled": false,
     "restructuredtext.linter.run": "off",
     "python.pythonPath": "python3",
-    "search.location": "panel",
     "[verilog]": {
         "editor.tabSize": 3
     },
@@ -235,5 +234,9 @@
     "prettier.trailingComma": "all",
     "python.formatting.provider": "black",
     "todo-tree.highlights.enabled": false,
-    "editor.quickSuggestionsDelay": 500
+    "editor.quickSuggestionsDelay": 500,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.limit.value": 4
 }
