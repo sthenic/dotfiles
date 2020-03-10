@@ -1,13 +1,18 @@
 code --install-extension 13xforever.language-x86-64-assembly
 code --install-extension arcticicestudio.nord-visual-studio-code
 code --install-extension be5invis.theme-verdandi
+code --install-extension chmac.insert-random-hashtag
+code --install-extension christianbrassat.minimal-fedu-ext
 code --install-extension cocopon.iceberg-theme
 code --install-extension cpmcgrath.codealignment-vscode
 code --install-extension Dj.minimal-fedu
 code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens
+code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
+code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
+code --install-extension Gruntfuggly.todo-tree
 code --install-extension himanoa.Python-autopep8
 code --install-extension James-Yu.latex-workshop
 code --install-extension jkjustjoshing.vscode-text-pastry
@@ -31,4 +36,6 @@ code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension tomphilbin.gruvbox-themes
 code --install-extension trixnz.vscode-lua
 code --install-extension wayou.vscode-todo-highlight
+code --install-extension webfreak.debug
 code --install-extension xaver.clang-format
+code --install-extension ZixuanWang.linkerscript

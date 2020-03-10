@@ -1,13 +1,13 @@
 {
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'Victor Mono Semibold', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'Iosevka Extended', 'Victor Mono Semibold', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
     "editor.fontWeight": "normal",
     "editor.insertSpaces": true,
-    "editor.matchBrackets": true,
+    "editor.matchBrackets": "always",
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
     "editor.occurrencesHighlight": false,
@@ -77,13 +77,18 @@
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
-    "editor.autoIndent": false,
+    "editor.autoIndent":"none",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.shellArgs.windows": ["-i"],
-    "terminal.integrated.fontFamily": "'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'Iosevka Extended', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "[Minimal Fedu]": {
+            "editorOverviewRuler.addedForeground": "#a7da1e",
+            "editorOverviewRuler.modifiedForeground": "#f7b83d",
+            "editorOverviewRuler.deletedForeground": "#e61f44"
+        },
+        "[Minimal Fedu Ext]": {
             "editorOverviewRuler.addedForeground": "#a7da1e",
             "editorOverviewRuler.modifiedForeground": "#f7b83d",
             "editorOverviewRuler.deletedForeground": "#e61f44"
@@ -229,7 +234,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "svn.enableProposedApi": "none",
-    "workbench.colorTheme": "Minimal Fedu",
     "prettier.proseWrap": "always",
     "prettier.trailingComma": "all",
     "python.formatting.provider": "black",
@@ -238,5 +242,7 @@
     "latex-workshop.view.pdf.viewer": "tab",
     "workbench.editor.limit.enabled": true,
     "workbench.editor.limit.perEditorGroup": true,
-    "workbench.editor.limit.value": 4
+    "workbench.editor.limit.value": 4,
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.colorTheme": "Verdandi"
 }
