@@ -63,6 +63,9 @@
     "window.zoomLevel": 0,
     "latex-workshop.message.update.show": false,
     "diffEditor.renderSideBySide": false,
+    "[nimble]": {
+        "editor.tabSize": 3,
+    },
     "[nim]": {
         "editor.tabSize": 3,
         "editor.snippetSuggestions": "none",
@@ -77,7 +80,7 @@
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
-    "editor.autoIndent":"none",
+    "editor.autoIndent":"full",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.shellArgs.windows": ["-i"],
     "terminal.integrated.fontFamily": "'Iosevka Extended', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
@@ -91,7 +94,8 @@
         "[Minimal Fedu Ext]": {
             "editorOverviewRuler.addedForeground": "#a7da1e",
             "editorOverviewRuler.modifiedForeground": "#f7b83d",
-            "editorOverviewRuler.deletedForeground": "#e61f44"
+            "editorOverviewRuler.deletedForeground": "#e61f44",
+            "editorLineNumber.foreground": "#5D6971AA"
         },
         "[Gruvbox Dark (Medium)]": {
             "statusBar.background": "#333333",
@@ -188,7 +192,7 @@
         },
         "[Nord]": {
             "comments": "#6d7a96"
-        }
+        },
     },
     "window.titleBarStyle": "custom",
     "breadcrumbs.enabled": false,
@@ -244,5 +248,5 @@
     "workbench.editor.limit.perEditorGroup": true,
     "workbench.editor.limit.value": 4,
     "todo-tree.tree.showScanModeButton": false,
-    "workbench.colorTheme": "Verdandi"
+    "workbench.colorTheme": "Minimal Fedu Ext"
 }
