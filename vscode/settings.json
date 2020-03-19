@@ -1,7 +1,7 @@
 {
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'Iosevka Extended', 'Victor Mono Semibold', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'Iosevka Extended', 'Iosevka', 'Input Mono Narrow', 'Victor Mono Semibold', 'Cascadia Code', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
@@ -80,10 +80,10 @@
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
-    "editor.autoIndent":"full",
+    "editor.autoIndent": "brackets",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
     "terminal.integrated.shellArgs.windows": ["-i"],
-    "terminal.integrated.fontFamily": "'Iosevka Extended', 'Cascadia Code', 'Input Mono Narrow', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'Iosevka Extended', 'Iosevka', 'Input Mono Narrow', 'Victor Mono Semibold', 'Cascadia Code', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "terminal.integrated.fontSize": 14,
     "workbench.colorCustomizations": {
         "[Minimal Fedu]": {

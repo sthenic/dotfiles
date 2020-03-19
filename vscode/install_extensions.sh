@@ -20,6 +20,7 @@ code --install-extension johnstoncode.svn-scm
 code --install-extension jolaleye.horizon-theme-vscode
 code --install-extension kosz78.nim
 code --install-extension lextudio.restructuredtext
+code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
 code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-vscode-remote.remote-ssh-edit
