@@ -1,5 +1,6 @@
 call code --install-extension 13xforever.language-x86-64-assembly
 call code --install-extension arcticicestudio.nord-visual-studio-code
+call code --install-extension ban.troff
 call code --install-extension be5invis.theme-verdandi
 call code --install-extension chmac.insert-random-hashtag
 call code --install-extension christianbrassat.minimal-fedu-ext

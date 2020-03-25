@@ -1,5 +1,6 @@
 code --install-extension 13xforever.language-x86-64-assembly
 code --install-extension arcticicestudio.nord-visual-studio-code
+code --install-extension ban.troff
 code --install-extension be5invis.theme-verdandi
 code --install-extension chmac.insert-random-hashtag
 code --install-extension christianbrassat.minimal-fedu-ext
