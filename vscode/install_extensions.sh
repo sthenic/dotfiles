@@ -1,43 +1,45 @@
-code --install-extension 13xforever.language-x86-64-assembly
-code --install-extension arcticicestudio.nord-visual-studio-code
-code --install-extension ban.troff
-code --install-extension be5invis.theme-verdandi
-code --install-extension chmac.insert-random-hashtag
-code --install-extension christianbrassat.minimal-fedu-ext
-code --install-extension cocopon.iceberg-theme
-code --install-extension cpmcgrath.codealignment-vscode
-code --install-extension Dj.minimal-fedu
-code --install-extension DotJoshJohnson.xml
-code --install-extension eamodio.gitlens
-code --install-extension Equinusocio.vsc-community-material-theme
-code --install-extension Equinusocio.vsc-material-theme
-code --install-extension equinusocio.vsc-material-theme-icons
-code --install-extension esbenp.prettier-vscode
-code --install-extension Gruntfuggly.todo-tree
-code --install-extension himanoa.Python-autopep8
-code --install-extension James-Yu.latex-workshop
-code --install-extension jkjustjoshing.vscode-text-pastry
-code --install-extension johnstoncode.svn-scm
-code --install-extension jolaleye.horizon-theme-vscode
-code --install-extension kosz78.nim
-code --install-extension lextudio.restructuredtext
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-python.python
-code --install-extension ms-vscode-remote.remote-ssh
-code --install-extension ms-vscode-remote.remote-ssh-edit
-code --install-extension ms-vscode-remote.remote-ssh-explorer
-code --install-extension ms-vscode-remote.remote-wsl
-code --install-extension ms-vscode.cpptools
-code --install-extension mshr-h.veriloghdl
-code --install-extension samrapdev.outrun
-code --install-extension shuworks.vscode-table-formatter
-code --install-extension sleutho.tcl
-code --install-extension Stephanvs.dot
-code --install-extension stkb.rewrap
-code --install-extension streetsidesoftware.code-spell-checker
-code --install-extension tomphilbin.gruvbox-themes
-code --install-extension trixnz.vscode-lua
-code --install-extension wayou.vscode-todo-highlight
-code --install-extension webfreak.debug
-code --install-extension xaver.clang-format
-code --install-extension ZixuanWang.linkerscript
+code --force --install-extension 13xforever.language-x86-64-assembly
+code --force --install-extension arcticicestudio.nord-visual-studio-code
+code --force --install-extension ban.troff
+code --force --install-extension be5invis.theme-verdandi
+code --force --install-extension chmac.insert-random-hashtag
+code --force --install-extension christianbrassat.minimal-fedu-ext
+code --force --install-extension cocopon.iceberg-theme
+code --force --install-extension cpmcgrath.codealignment-vscode
+code --force --install-extension dalance.svls-vscode
+code --force --install-extension Dj.minimal-fedu
+code --force --install-extension DotJoshJohnson.xml
+code --force --install-extension eamodio.gitlens
+code --force --install-extension Equinusocio.vsc-community-material-theme
+code --force --install-extension Equinusocio.vsc-material-theme
+code --force --install-extension equinusocio.vsc-material-theme-icons
+code --force --install-extension esbenp.prettier-vscode
+code --force --install-extension Gruntfuggly.todo-tree
+code --force --install-extension himanoa.Python-autopep8
+code --force --install-extension James-Yu.latex-workshop
+code --force --install-extension jkjustjoshing.vscode-text-pastry
+code --force --install-extension johnstoncode.svn-scm
+code --force --install-extension jolaleye.horizon-theme-vscode
+code --force --install-extension kosz78.nim
+code --force --install-extension lextudio.restructuredtext
+code --force --install-extension ms-azuretools.vscode-docker
+code --force --install-extension ms-python.python
+code --force --install-extension ms-vscode-remote.remote-ssh
+code --force --install-extension ms-vscode-remote.remote-ssh-edit
+code --force --install-extension ms-vscode-remote.remote-ssh-explorer
+code --force --install-extension ms-vscode-remote.remote-wsl
+code --force --install-extension ms-vscode.cpptools
+code --force --install-extension mshr-h.veriloghdl
+code --force --install-extension samrapdev.outrun
+code --force --install-extension shuworks.vscode-table-formatter
+code --force --install-extension sleutho.tcl
+code --force --install-extension slevesque.vscode-hexdump
+code --force --install-extension Stephanvs.dot
+code --force --install-extension stkb.rewrap
+code --force --install-extension streetsidesoftware.code-spell-checker
+code --force --install-extension tomphilbin.gruvbox-themes
+code --force --install-extension trixnz.vscode-lua
+code --force --install-extension wayou.vscode-todo-highlight
+code --force --install-extension webfreak.debug
+code --force --install-extension xaver.clang-format
+code --force --install-extension ZixuanWang.linkerscript

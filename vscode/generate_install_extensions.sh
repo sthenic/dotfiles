@@ -8,6 +8,6 @@ EXTENSIONS=$(code --list-extensions)
 
 for EXT in $EXTENSIONS
 do
-    echo 'code --install-extension' $EXT >> $FILENAME_LINUX
-    echo 'call code --install-extension' $EXT >> $FILENAME_WINDOWS
+    echo 'code --force --install-extension' $EXT >> $FILENAME_LINUX
+    echo 'call code --force --install-extension' $EXT >> $FILENAME_WINDOWS
 done

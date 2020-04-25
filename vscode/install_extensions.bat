@@ -1,43 +1,45 @@
-call code --install-extension 13xforever.language-x86-64-assembly
-call code --install-extension arcticicestudio.nord-visual-studio-code
-call code --install-extension ban.troff
-call code --install-extension be5invis.theme-verdandi
-call code --install-extension chmac.insert-random-hashtag
-call code --install-extension christianbrassat.minimal-fedu-ext
-call code --install-extension cocopon.iceberg-theme
-call code --install-extension cpmcgrath.codealignment-vscode
-call code --install-extension Dj.minimal-fedu
-call code --install-extension DotJoshJohnson.xml
-call code --install-extension eamodio.gitlens
-call code --install-extension Equinusocio.vsc-community-material-theme
-call code --install-extension Equinusocio.vsc-material-theme
-call code --install-extension equinusocio.vsc-material-theme-icons
-call code --install-extension esbenp.prettier-vscode
-call code --install-extension Gruntfuggly.todo-tree
-call code --install-extension himanoa.Python-autopep8
-call code --install-extension James-Yu.latex-workshop
-call code --install-extension jkjustjoshing.vscode-text-pastry
-call code --install-extension johnstoncode.svn-scm
-call code --install-extension jolaleye.horizon-theme-vscode
-call code --install-extension kosz78.nim
-call code --install-extension lextudio.restructuredtext
-call code --install-extension ms-azuretools.vscode-docker
-call code --install-extension ms-python.python
-call code --install-extension ms-vscode-remote.remote-ssh
-call code --install-extension ms-vscode-remote.remote-ssh-edit
-call code --install-extension ms-vscode-remote.remote-ssh-explorer
-call code --install-extension ms-vscode-remote.remote-wsl
-call code --install-extension ms-vscode.cpptools
-call code --install-extension mshr-h.veriloghdl
-call code --install-extension samrapdev.outrun
-call code --install-extension shuworks.vscode-table-formatter
-call code --install-extension sleutho.tcl
-call code --install-extension Stephanvs.dot
-call code --install-extension stkb.rewrap
-call code --install-extension streetsidesoftware.code-spell-checker
-call code --install-extension tomphilbin.gruvbox-themes
-call code --install-extension trixnz.vscode-lua
-call code --install-extension wayou.vscode-todo-highlight
-call code --install-extension webfreak.debug
-call code --install-extension xaver.clang-format
-call code --install-extension ZixuanWang.linkerscript
+call code --force --install-extension 13xforever.language-x86-64-assembly
+call code --force --install-extension arcticicestudio.nord-visual-studio-code
+call code --force --install-extension ban.troff
+call code --force --install-extension be5invis.theme-verdandi
+call code --force --install-extension chmac.insert-random-hashtag
+call code --force --install-extension christianbrassat.minimal-fedu-ext
+call code --force --install-extension cocopon.iceberg-theme
+call code --force --install-extension cpmcgrath.codealignment-vscode
+call code --force --install-extension dalance.svls-vscode
+call code --force --install-extension Dj.minimal-fedu
+call code --force --install-extension DotJoshJohnson.xml
+call code --force --install-extension eamodio.gitlens
+call code --force --install-extension Equinusocio.vsc-community-material-theme
+call code --force --install-extension Equinusocio.vsc-material-theme
+call code --force --install-extension equinusocio.vsc-material-theme-icons
+call code --force --install-extension esbenp.prettier-vscode
+call code --force --install-extension Gruntfuggly.todo-tree
+call code --force --install-extension himanoa.Python-autopep8
+call code --force --install-extension James-Yu.latex-workshop
+call code --force --install-extension jkjustjoshing.vscode-text-pastry
+call code --force --install-extension johnstoncode.svn-scm
+call code --force --install-extension jolaleye.horizon-theme-vscode
+call code --force --install-extension kosz78.nim
+call code --force --install-extension lextudio.restructuredtext
+call code --force --install-extension ms-azuretools.vscode-docker
+call code --force --install-extension ms-python.python
+call code --force --install-extension ms-vscode-remote.remote-ssh
+call code --force --install-extension ms-vscode-remote.remote-ssh-edit
+call code --force --install-extension ms-vscode-remote.remote-ssh-explorer
+call code --force --install-extension ms-vscode-remote.remote-wsl
+call code --force --install-extension ms-vscode.cpptools
+call code --force --install-extension mshr-h.veriloghdl
+call code --force --install-extension samrapdev.outrun
+call code --force --install-extension shuworks.vscode-table-formatter
+call code --force --install-extension sleutho.tcl
+call code --force --install-extension slevesque.vscode-hexdump
+call code --force --install-extension Stephanvs.dot
+call code --force --install-extension stkb.rewrap
+call code --force --install-extension streetsidesoftware.code-spell-checker
+call code --force --install-extension tomphilbin.gruvbox-themes
+call code --force --install-extension trixnz.vscode-lua
+call code --force --install-extension wayou.vscode-todo-highlight
+call code --force --install-extension webfreak.debug
+call code --force --install-extension xaver.clang-format
+call code --force --install-extension ZixuanWang.linkerscript
