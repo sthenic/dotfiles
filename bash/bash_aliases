@@ -5,22 +5,41 @@ alias set-daytime='redshift -x'
 
 # Git
 alias ga='git add'
-alias gc='git commit'
-alias gd='git diff'
-alias gf='git fetch'
-alias gl='git log'
-alias gp='git push'
-alias gs='git status'
-alias gds='git diff --staged'
-alias gls='git log --numstat'
-alias glo='git log --oneline'
-alias glg="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+__git_complete ga _git_add
 
+alias gc='git commit'
+__git_complete gc _git_commit
+
+alias gd='git diff'
+__git_complete gd _git_diff
+
+alias gf='git fetch'
+__git_complete gf _git_fetch
+
+alias gl='git log'
+__git_complete gl _git_log
+
+alias gp='git pull --rebase'
+__git_complete gp _git_pull
+
+alias gs='git status'
+__git_complete gs _git_status
+
+alias gds='git diff --staged'
+__git_complete gd _git_diff
+
+alias gls='git log --numstat'
+__git_complete gls _git_log
+
+alias glo='git log --oneline'
+__git_complete glo _git_log
+
+alias gg="git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+__git_complete gg _git_log
 
 # Paths
 alias gitdir='cd ~/Documents/git'
 alias codedir='cd ~/Documents/code'
-alias tg='gitdir && cd technogram'
 
 # Visual studio code (needed due to bug https://github.com/Microsoft/vscode/issues/41513)
 alias code='code --disable-gpu'
