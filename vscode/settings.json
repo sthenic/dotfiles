@@ -1,7 +1,7 @@
 {
     "workbench.iconTheme": null,
     "window.menuBarVisibility": "default",
-    "editor.fontFamily": "'Iosevka Extended', 'Iosevka', 'Input Mono Narrow', 'Victor Mono Semibold', 'Cascadia Code', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
+    "editor.fontFamily": "'JetBrains Mono Semi Light', 'Iosevka Extended', 'Iosevka', 'Input Mono Narrow', 'Victor Mono Semibold', 'Cascadia Code', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'monospace', monospace",
     "editor.cursorBlinking": "solid",
     "editor.cursorStyle": "block",
     "editor.fontSize": 14,
@@ -13,7 +13,7 @@
     "editor.occurrencesHighlight": false,
     "editor.fontLigatures": true,
     "editor.rulers": [
-        80
+        100
     ],
     "editor.scrollBeyondLastLine": true,
     "editor.tabSize": 4,
@@ -22,8 +22,7 @@
     "files.eol": "\n",
     "editor.renderWhitespace": "none",
     "editor.renderIndentGuides": true,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
     "[tex]": {
         "editor.wordSeparators": "`~!#$%^&*()-=+[{]}\\|;:'\",.<>/?@",
         "editor.quickSuggestions": {
@@ -55,12 +54,12 @@
     "restructuredtext.linter.run": "off",
     "python.pythonPath": "python3",
     "[verilog]": {
-        "editor.tabSize": 3
+        "editor.tabSize": 4,
+        "editor.fontLigatures": false
     },
     "workbench.statusBar.feedback.visible": false,
     "editor.detectIndentation": false,
     "rewrap.wrappingColumn": 80,
-    "window.zoomLevel": 0,
     "latex-workshop.message.update.show": false,
     "diffEditor.renderSideBySide": false,
     "[nimble]": {
@@ -76,7 +75,7 @@
         },
         "editor.wordBasedSuggestions": false,
         "editor.parameterHints.enabled": false,
-        "editor.suggestOnTriggerCharacters": false,
+        "editor.suggestOnTriggerCharacters": false
     },
     "svn.autorefresh": false,
     "editor.smoothScrolling": false,
@@ -176,6 +175,17 @@
             "list.hoverBackground": "#646dac",
             "list.focusBackground": "#646dac",
             "editorGroup.dropBackground": "#7984D155"
+        },
+        "[nil]": {
+            "statusBar.background": "#202020",
+            "statusBarItem.remoteBackground": "#202020",
+            "editor.background": "#242424",
+            "activityBarBadge.background": "#A4F3F5",
+            "activityBarBadge.foreground": "#202020"
+        },
+        "[Grueling Hare Dark]": {
+            "editor.findMatchBackground": "#744418",
+            "editor.findMatchHighlightBackground": "#744418"
         }
     },
     "editor.tokenColorCustomizations": {
@@ -193,9 +203,12 @@
         "[Nord]": {
             "comments": "#6d7a96"
         },
+        "[nil]": {
+            "comments": "#666666",
+            "strings": "#ADB4B5"
+        }
     },
     "window.titleBarStyle": "custom",
-    "breadcrumbs.enabled": false,
     "workbench.settings.editor": "json",
     "terminal.integrated.rendererType": "dom",
     "terminal.integrated.cwd": "${fileDirname}",
@@ -237,6 +250,9 @@
         "editor.tabSize": 2,
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
     "svn.enableProposedApi": "none",
     "prettier.proseWrap": "always",
     "prettier.trailingComma": "all",
@@ -248,5 +264,22 @@
     "workbench.editor.limit.perEditorGroup": true,
     "workbench.editor.limit.value": 4,
     "todo-tree.tree.showScanModeButton": false,
-    "workbench.colorTheme": "Minimal Fedu Ext"
+    "chronicler.ffmpeg-binary": "/usr/bin/ffmpeg",
+    "chronicler.debug": true,
+    "chronicler.dest-folder": "~/Recordings",
+    "chronicler.recording-defaults": {
+        "flags": null,
+        "fps": 10,
+        "countdown": 3
+    },
+    "workbench.colorTheme": "Minimal Fedu Ext",
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.enableTelemetry": false,
+    "extensions.ignoreRecommendations": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "breadcrumbs.enabled": false
 }
